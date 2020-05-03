@@ -1,3 +1,3 @@
 # HOML - Hands on Machine Learning Solutions
 
-###### My Solutions for the exercises from Hands on Machine Learning using Keras and Tensorflow 2.0
+###### My Solutions, Exercises, Examples and Notes for the book HOML using TensorFlow 2.0
